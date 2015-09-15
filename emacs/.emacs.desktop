@@ -1,0 +1,85 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Sep 15 09:56:47 2015
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22008 12719 335114 0) (desktop . "206") "felipemendez@Felipes-MacBook-Pro.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (foreground-color . "#F8F8F2") (background-color . "#1D2021") (line-spacing) (left-fringe . 10) (right-fringe . 11) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen) (display . "Felipes-MacBook-Pro.local") (display-type . color) (background-mode . dark) (cursor-color . "#999999") (visibility) (frameset--id . "AEF4-2113-7708-9310") (frameset--mini t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (height . 89) (width . 272) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 56) (min-pixel-width . 70) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 35) (min-pixel-height-safe . 14) (min-pixel-width-safe . 14)) leaf (pixel-width . 1925) (pixel-height . 1232) (total-width . 275) (total-height . 88) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 0 0 nil nil) (vscroll . 0) (dedicated) (point . 192) (start . 1))) (((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Source Code Pro-normal-normal-normal-*-11-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (foreground-color . "#F8F8F2") (background-color . "#1D2021") (line-spacing) (left-fringe . 1) (right-fringe . 6) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#999999") (environment) (frameset--id . "925E-09FE-DD67-9B1B") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "Felipes-MacBook-Pro.local") (explicit-name) (tool-bar-position . top) (height . 65) (width . 116) (left . 10) (top . 33)) ((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 112) (min-pixel-width . 140) (min-pixel-height-ignore . 56) (min-pixel-width-ignore . 42) (min-pixel-height-safe . 28) (min-pixel-width-safe . 28)) vc (pixel-width . 819) (pixel-height . 896) (total-width . 117) (total-height . 64) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 819) (pixel-height . 448) (total-width . 117) (total-height . 32) (normal-height . 0.5) (normal-width . 1.0) (buffer "layout.html" (selected . t) (hscroll . 0) (fringes 1 6 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 814) (start . 1))) (hc (last . t) (pixel-width . 819) (pixel-height . 448) (total-width . 117) (total-height . 32) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 410) (pixel-height . 448) (total-width . 59) (total-height . 32) (normal-height . 1.0) (normal-width . 0.5006105006105006) (buffer "layout.js" (selected) (hscroll . 0) (fringes 1 6 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 285) (start . 1))) (leaf (last . t) (pixel-width . 409) (pixel-height . 448) (total-width . 58) (total-height . 32) (normal-height . 1.0) (normal-width . 0.4993894993894994) (buffer "calendar.js" (selected) (hscroll . 0) (fringes 1 6 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 6466) (start . 5928))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("drawmo" "createEve" "magi" "magit" "magi" "start" "star"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/Users/felipemendez/Development/juno-creator/.git/COMMIT_EDITMSG" "/Users/felipemendez/Development/juno-creator/app/src/js/components/Thumbnails.js" "/Users/felipemendez/Development/juno-creator/.git/COMMIT_EDITMSG" "/Users/felipemendez/Development/juno-creator/app/src/js/components/Icon.js" "/Users/felipemendez/Development/juno-creator/.git/COMMIT_EDITMSG" "/Users/felipemendez/Development/reactTut/doubleBinding.html" "/Users/felipemendez/Development/reactTut/firstComponent/firtComponent.html" "/Users/felipemendez/Development/juno-creator/.git/COMMIT_EDITMSG" "/Users/felipemendez/Development/juno-creator/app/src/js/components/Player.js" "/Users/felipemendez/Development/juno-creator/app/src/js/components/Properties.js" "/Users/felipemendez/Development/juno-creator/todo.org" "/Users/felipemendez/Development/Applicados/.git/COMMIT_EDITMSG" "/Users/felipemendez/Development/juno-creator/.git/COMMIT_EDITMSG" "/Users/felipemendez/todo.org" "/Users/felipemendez/Development/reactTut/firstComponent/firtComponent.html" "/Users/felipemendez/Development/reactTut/doubleBinding.html" "/Users/felipemendez/Development/reactTut/firstComponent/firtComponent.html" "/Users/felipemendez/Development/andresfelipemendez.github.io/.git/COMMIT_EDITMSG" "/Users/felipemendez/Development/andresfelipemendez.github.io/index.org" "/Users/felipemendez/Development/andresfelipemendez.github.io/home.org" "/Users/felipemendez/todo.org" "/Users/felipemendez/Development/reactTut/firstComponent/firtComponent.html"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/felipemendez/Development/Applicados/client/templates/layout/layout.html"
+  "layout.html"
+  'web-mode
+  '(visual-line-mode global-auto-revert-mode yas-minor-mode projectile-mode flx-ido-mode auto-complete-mode remchi-mode flycheck-mode emmet-mode)
+  814
+  '(814 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/Users/felipemendez/Development/Applicados/client/templates/calendar/calendar.js"
+  "calendar.js"
+  'js-mode
+  '(visual-line-mode global-auto-revert-mode yas-minor-mode projectile-mode flx-ido-mode auto-complete-mode remchi-mode flycheck-mode)
+  6466
+  '(6515 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/Users/felipemendez/Development/Applicados/client/templates/layout/layout.js"
+  "layout.js"
+  'js-mode
+  '(visual-line-mode global-auto-revert-mode yas-minor-mode projectile-mode flx-ido-mode auto-complete-mode remchi-mode flycheck-mode)
+  285
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/Users/felipemendez/Development/Applicados/client/templates/layout/head.html"
+  "head.html"
+  'web-mode
+  '(visual-line-mode global-auto-revert-mode yas-minor-mode projectile-mode flx-ido-mode auto-complete-mode remchi-mode flycheck-mode emmet-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/Users/felipemendez/Development/Applicados/client/templates/calendar/calendar.html"
+  "calendar.html"
+  'web-mode
+  '(visual-line-mode global-auto-revert-mode yas-minor-mode projectile-mode flx-ido-mode auto-complete-mode remchi-mode flycheck-mode emmet-mode)
+  306
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/Users/felipemendez/Development/Applicados/server/methods.js"
+  "methods.js"
+  'js-mode
+  '(visual-line-mode global-auto-revert-mode yas-minor-mode projectile-mode flx-ido-mode auto-complete-mode remchi-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+

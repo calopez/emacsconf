@@ -1,0 +1,188 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/felipemendez/Development/reactTut/" . "firstComponent/")
+ ("/Users/felipemendez/.emacs.d/snippets/" . "js-mode/")
+ ("/Users/felipemendez/.emacs.d/" . "snippets/")
+ ("/Users/felipemendez/Development/juno-creator/app/src/js/" . "components/")
+ ("/Users/felipemendez/Development/juno-creator/app/src/" . "js/")
+ ("/Users/felipemendez/Development/juno-creator/app/dist/" . "css/")
+ ("/Users/felipemendez/Development/juno-creator/app/" . "src/")
+ ("/Users/felipemendez/Development/juno-creator/" . "app/")
+ ("/Users/felipemendez/Development/Applicados/.meteor/local/" . "log/")
+ ("/Users/felipemendez/Development/Applicados/.meteor/" . "local/")
+ ("/Users/felipemendez/Development/logincucumber/tests/cucumber/features/" . "step_definitions/")
+ ("/Users/felipemendez/Development/logincucumber/tests/cucumber/" . "features/")
+ ("/Users/felipemendez/Development/logincucumber/tests/" . "cucumber/")
+ ("/Users/felipemendez/Development/logincucumber/" . "tests/")
+ ("/Users/felipemendez/Development/Applicados/tests/cucumber/features/" . "step_definitions/")
+ ("/Users/" . "felipemendez/")
+ ("/" . "Users/")
+ ("/Users/felipemendez/Development/Applicados/tests/cucumber/" . "features/")
+ ("/Users/felipemendez/Development/Applicados/tests/" . "cucumber/")
+ ("/Users/felipemendez/Development/Applicados/client/templates/" . "components/")
+ ("/Users/felipemendez/Development/Applicados/client/" . "templates/")
+ ("/Users/felipemendez/Development/Applicados/" . "client/")
+ ("/Users/felipemendez/Development/" . "Applicados/")
+ ("/Users/felipemendez/" . "Documents/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/felipemendez/Development/juno-creator/app/src/js/components/"
+ "/Users/felipemendez/Development/juno-creator/"
+ "/Users/felipemendez/.dotfiles/emacs/"
+ "/Users/felipemendez/"
+ "/Users/felipemendez/Development/reactTut/firstComponent/"
+ "/Users/felipemendez/Development/reactTut/"
+ "/Users/felipemendez/Development/andresfelipemendez.github.io/"
+ "/Users/felipemendez/Development/Applicados/"
+ "/Users/felipemendez/.emacs.d/snippets/js-mode/"
+ "/Users/felipemendez/Development/juno-creator/app/dist/css/"
+ "/Users/felipemendez/Development/juno-creator/app/src/"
+ "/Users/felipemendez/Documents/"
+ "/Users/felipemendez/Desktop/"
+ "/Users/felipemendez/.emacs.d/"
+ "/Users/felipemendez/Development/ORGtoMARKUPgithook/"
+ "/Users/felipemendez/Development/Applicados/client/templates/layout/"
+ "/Users/felipemendez/Development/Applicados/client/templates/components/"
+ "/Users/felipemendez/Development/poylmerTest/"
+ "/Users/felipemendez/Development/Applicados/tests/cucumber/features/step_definitions/"
+ "/Users/felipemendez/Development/Applicados/.meteor/local/log/"
+ "/Users/felipemendez/Development/logincucumber/"
+ "/Users/felipemendez/Development/logincucumber/tests/cucumber/features/step_definitions/"
+ "/Users/felipemendez/Development/logincucumber/tests/cucumber/features/"
+ "/Users/felipemendez/Development/Applicados/tests/cucumber/features/"
+ "/Users/felipemendez/Development/ScrumBDD/"
+ "/Users/felipemendez/Development/PresentacionPolymerGDG/"
+ "/Users/felipemendez/Development/cppTrelloAutomationTool/"
+ "Users/felipemendez/Development/Applicados/.meteor/local/log/"
+ "/Users/felipemendez/Development/cpp/"
+ "/Users/felipemendez/.oh-my-zsh/"
+ "/Users/felipemendez/Development/Applicados/client/templates/register/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Thumbnails.js"
+ "Icon.js"
+ "todo.org"
+ "Cask"
+ "firtComponent.html"
+ "doubleBinding.html"
+ "index.org"
+ "home.org"
+ "topToolbar.js"
+ "reactClass"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/felipemendez/Development/Applicados/client/" (21998 64816 0 0) "templates/" "stylesheets/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/juno-creator/app/" (22004 33861 0 0) "src/" "index.html" "dist/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/juno-creator/app/src/js/" (22004 38875 0 0) "main.js" "components/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/.emacs.d/" (22007 32286 0 0) "todo.org" "snippets/" "saveplace.el" "projectile.cache" "projectile-bookmarks.eld" "mySnippets" "init.el" "ido.last" "color-theme-mac-classic/" "Cask" "bookmarks" "auto-save-list/" "ac-comphist.dat" ".mc-lists.el" ".emacs.desktop.lock" ".emacs.desktop" ".DS_Store" ".cask/" "../" "./")
+
+ ("/Users/felipemendez/Development/juno-creator/app/dist/css/" (22007 31229 0 0) "style.css" "icons.css" "../" "./")
+
+ ("/Users/felipemendez/" (22007 31681 0 0) "todo.org" "settings.json" "Public/" "Pictures/" "Music/" "mup.json" "Movies/" "memoria.zip" "Library/" "jsoncpp/" "Downloads/" "Documents/" "Development/" "Desktop/" "curl-7.43.0/" "curl/" "Creative Cloud Files/" "build/" "bin/" "Applications/" "Applicados.keystore" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Felipe’s MacBook Pro-5.0.5" ".WebStorm10/" ".wapi/" ".viminfo" ".v8flags.3.28.71.19.felipemendez.json" ".Trash/" ".tmuxnator/" ".tmux.conf" ".thumbnails/" ".subversion/" ".ssh/" ".skeinforge/" ".saves/" ".oh-my-zsh/" ".npm/" ".meteorsession" ".meteor/" ".local/" ".jssc/" ".hgignore_global" ".gradle/" ".godot/" ".gitignore_global" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".dotfiles/" ".cura/" ".config/" ".CFUserTextEncoding" ".cask/" ".cache/" ".BuildServer/" ".bash_profile~" ".bash_profile" ".bash_history" ".atom/" ".android/" "../" "./")
+
+ ("/Users/felipemendez/.dotfiles/emacs/" (22007 32286 0 0) "todo.org" "snippets/" "saveplace.el" "projectile.cache" "projectile-bookmarks.eld" "mySnippets" "init.el" "ido.last" "color-theme-mac-classic/" "Cask" "bookmarks" "auto-save-list/" "ac-comphist.dat" ".mc-lists.el" ".emacs.desktop.lock" ".emacs.desktop" ".DS_Store" ".cask/" "../" "./")
+
+ ("/Users/felipemendez/Development/juno-creator/app/src/js/components/" (22007 31655 0 0) "TopToolbar.js" "Thumbnails.js" "Sidebar.js" "Properties.js" "Player.js" "Inspector.js" "Icon.js" "Editor.js" "../" "./")
+
+ ("/Users/felipemendez/Desktop/" (22004 34432 0 0) "Thumbs.db" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/felipemendez/Documents/" (22004 32050 0 0) "You_Dont_Know_JS_Types_and_Grammar.pdf" "You_Dont_Know_JS_this_and_Object_Prototypes.pdf" "You_Dont_Know_JS_Scope_and_Closures.pdf" "You_Dont_Know_JS_Async_and_Performance.pdf" "Unreal Projects/" "UNE - EPM Telecomunicaciones.pdf" "tumblr.txt" "tmux-2.0.tar.gz" "Tairona_Gear.zip" "SSH- Standing Monitor Arm.skp" "Screen Shot 2015-09-08 at 9.17.05 AM.png" "S8LN53MZ01.part09.rar" "rocketboots.art" "rocketboots copy.art" "Results | Mojo Upgrade.pdf" "presentacionpolymer.org" "polymer gdg.key" "Octopus_Tablet_Stand_Version_Two.zip" "nosegdgalgoasi.rtf" "mama.zip" "mama/" "listaJUNO.txt" "Listado tareas.pdf" "juno.txt" "jessica.txt" "iso.org" "historiaclinica3.txt" "historiaclinica2.txt" "historiaclinica.txt" "glyphicons-social-regular.woff2" "gdgpolymer.txt" "export.pdf" "epilepsia.txt" "dist/" "cuenta de cobro septiembre 8.pdf" "cuenta de cobro _ ejemplo.pages" "Creepick/" "Cotización Raices afroinfantiles.pdf" "cotizacion.gcode" "canchapp.sketch" "camilo.rtf" "BOTPLK50-MSH-SEG/" "books/" "aRVLmV7_700b.jpg" "Arduino/" "Applicados/" "AAA game programming/" "745-909844-46_702.xls" "745-909844-46_413.txt" "3 - Producto.STL" "05_INFORME CONSOLIDADO_primer corte/" "03_JunoEngine_Desarrollo/" "0321992784CPP2.mobi" "0321992784CPP2.epub" "01_Acuerdo_confidencialidad_andres_mendez_encrypted_.pdf" "001_contrato_cuentosRaicesAfroinfantiles.doc" ".parallels-vm-directory/" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/felipemendez/.emacs.d/snippets/js-mode/" (22004 21534 0 0) "reactClass" "edges-array" "cat-array" "../" "./")
+
+ ("/Users/felipemendez/Development/reactTut/" (22004 41020 0 0) "firstComponent/" "doubleBinding.html" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/juno-creator/" (22004 33564 0 0) "todo.org" "README.md" "package.json" "npm-debug.log" "node_modules/" "gulpfile.js" "app/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/reactTut/firstComponent/" (22002 16419 0 0) "firtComponent.html" "../" "./")
+
+ ("/Users/felipemendez/Development/andresfelipemendez.github.io/" (22000 35070 0 0) "index.org" "index.html" "home.org" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/" (22000 34765 0 0) "ScrumBDD/" "RocketBoots/" "reactTut/" "PresentacionPolymerGDG/" "poylmerTest/" "ORGtoMARKUPgithook/" "meteor-polymer-mobile/" "logincucumber/" "juno-creator/" "Figuras_con_D3/" "Drone/" "cppTrelloAutomationTool/" "Calendar/" "build/" "Applicados/" "andresfelipemendez.github.io/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/.dotfiles/" (21972 50592 0 0) "README.md" "emacs/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/client/templates/register/" (21998 62210 0 0) "verifyEmail.js" "verifyEmail.html" "registerUser.js" "registerUser.html" "registerUser.css" "registerSchool.js" "registerSchool.html" "registerAdmin.js" "registerAdmin.html" "emailConfirmationSchool.html" "confirmationSchool.js" "confirmationSchool.html" "colegios.js" "colegios.html" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/tests/cucumber/features/" (21998 59255 0 0) "step_definitions/" "registro.feature" "login.feature" "chat.feature" "calendario.feature" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/tests/cucumber/features/step_definitions/" (21998 59255 0 0) "registerSteps.js" "loginSteps.js" "chat_steps.js" "calendario_steps.js" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/client/templates/layout/" (21998 64816 0 0) "mainNavUserInformation.js" "mainNavUserInformation.html" "loading.html" "layout_.html" "layout.js" "layout.html" "head.html" "blank.html" "404.html" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/" (21998 64816 0 0) "todo.org" "tests/" "settings.json" "server/" "resources/" "public/" "npm-debug.log" "mup.json" "mobile-config.js" "lib/" "client/" "bower.json" "Applicados.sublime-project" ".meteor/" ".jshintrc" ".jshintignore" ".gitignore" ".git/" ".editorconfig" ".DS_Store" ".bowerrc" "../" "./")
+
+ ("/Users/felipemendez/Development/juno-creator/app/dist/" (21996 53622 0 0) "js/" "fonts/" "css/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/client/templates/Calendar/" (21998 62207 0 0) "displayEvent.html" "createEvent.js" "createEvent.html" "calendar.js" "calendar.html" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/client/templates/" (21992 25769 0 0) "web/" "search/" "register/" "message/" "login/" "layout/" "home/" "Calendar/" "admin/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/.emacs.d/snippets/" (21933 37135 0 0) "ruby-mode/" "markdown-mode/" "js-mode/" "fundamental-mode/" "../" "./")
+
+ ("/Users/felipemendez/Development/juno-creator/app/src/" (21993 64379 0 0) "js/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/ORGtoMARKUPgithook/" (21983 10329 0 0) "readme.org" ".git/" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/client/templates/components/" (21981 52615 0 0) "resp.js" "resp.html" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/client/templates/login/" (21982 14375 0 0) "signOut.js" "signOut.html" "login.js" "login.html" "login.css" "../" "./")
+
+ ("/Users/felipemendez/Development/poylmerTest/" (21971 59076 0 0) "public/" "poylmerTest.js" "poylmerTest.html" "poylmerTest.css" "mobile-config.js" "config.vulcanize" "bower.json" ".meteor/" ".bowerrc" "../" "./")
+
+ ("/Users/felipemendez/Development/logincucumber/tests/cucumber/features/step_definitions/" (21963 44624 0 0) "sample_steps.js" "create_widget_steps.js" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/.meteor/local/log/" (21963 32026 0 0) "cucumber.log" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/.meteor/local/" (21964 39197 0 0) "shell/" "run/" "log/" "isopacks/" "db/" "build/" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/.meteor/" (21963 32009 0 0) "versions" "release" "platforms" "packages" "local/" ".id" ".gitignore" ".finished-upgraders" "../" "./")
+
+ ("/Users/felipemendez/Development/logincucumber/" (21963 43701 0 0) "tests/" "cuke-tut.js" "cuke-tut.html" "cuke-tut.css" ".meteor/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/logincucumber/tests/cucumber/features/" (21963 39558 0 0) "suport/" "step_definitions/" "sample.feature" "../" "./")
+
+ ("/Users/felipemendez/Development/logincucumber/tests/cucumber/" (21960 45976 0 0) "package.json" "node_modules/" "fixtures/" "features/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/logincucumber/tests/" (21960 45976 0 0) "cucumber/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/ScrumBDD/" (21962 540 0 0) "README.org" "README.md" "package.json" "LICENSE" "app.json" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/felipemendez/Development/PresentacionPolymerGDG/" (21959 54988 0 0) "README.md" "LICENSE" "img/" "bower_components/" "bower.json" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/cppTrelloAutomationTool/" (21956 47528 0 0) "Makefile" "main.cpp" "a.out" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/cpp/" (21945 30485 0 0) "main.cpp" "header.h" "a.out" "../" "./")
+
+ ("/Users/felipemendez/.cask/" (21933 37818 0 0) "test/" "templates/" "README.md" "package-legacy.el" "Makefile" "go" "fixtures/" "features/" "doc/" "COPYING" "cask.png" "cask.el" "cask-cli.el" "cask-bootstrap.el" "Cask" "bin/" ".travis.yml" ".gitignore" ".git/" ".ert-runner" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/tests/" (21942 39519 0 0) "cucumber/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/Development/Applicados/tests/cucumber/" (21946 47882 0 0) "package.json" "node_modules/" "fixtures/" "features/" ".DS_Store" "../" "./")
+
+ ("/Users/felipemendez/.oh-my-zsh/" (21933 39287 0 0) "tools/" "themes/" "templates/" "README.markdown" "plugins/" "oh-my-zsh.sh" "MIT-LICENSE.txt" "log/" "lib/" "custom/" "cache/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/felipemendez/.dotfiles/emacs/.cask/" (21933 37376 0 0) "24.5.1/" "../" "./")
+
+ ("/Users/felipemendez/.dotfiles/emacs/.cask/24.5.1/" (21933 37383 0 0) "elpa/" "bootstrap/" "../" "./")
+
+ ("/Users/felipemendez/.dotfiles/emacs/.cask/24.5.1/elpa/" (21933 43338 0 0) "yasnippet-20150415.244/" "yaml-mode-20141125.37/" "with-editor-20150710.252/" "web-mode-20150717.1350/" "shut-up-20150423.522/" "scss-mode-20150107.1400/" "s-20140910.334/" "ruby-refactor-20140719.1645/" "rspec-mode-20150715.833/" "projectile-20150720.515/" "powerline-20150628.1957/" "popup-20150626.711/" "pkg-info-20150517.443/" "package-build-20150719.443/" "org-pomodoro-20150621.552/" "multiple-cursors-20150710.456/" "moe-theme-20150707.656/" "markdown-mode-20150716.721/" "magit-popup-20150711.505/" "magit-20150718.2257/" "log4e-20150105.505/" "ido-vertical-mode-20150623.1410/" "htmlize-20130207.1202/" "helm-projectile-20150714.842/" "helm-core-20150719.845/" "helm-20150719.721/" "gntp-20141024.1950/" "git-commit-20150706.331/" "flx-ido-20140821.2033/" "flx-20140921.739/" "flatland-theme-20140805.305/" "f-20150605.927/" "expand-region-20150718.18/" "epl-20150517.433/" "emmet-mode-20150410.803/" "dash-20150717.1321/" "color-theme-sanityinc-tomorrow-20150710.1903/" "cask-20150528.752/" "auto-complete-20150618.1949/" "async-20150716.2110/" "archives/" "angular-snippets-20140513.2223/" "alert-20150402.1246/" "ace-jump-mode-20140616.115/" "../" "./")
+
+ ("/Users/felipemendez/.dotfiles/emacs/.cask/24.5.1/elpa/moe-theme-20150707.656/" (21933 43340 0 0) "moe-theme.elc" "moe-theme.el" "moe-theme-switcher.elc" "moe-theme-switcher.el" "moe-theme-pkg.el" "moe-theme-autoloads.el" "moe-light-theme.el" "moe-dark-theme.el" "../" "./")
+
+ ("/Users/" (21914 61858 0 0) "Shared/" "Guest/" "felipemendez/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

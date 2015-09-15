@@ -3,10 +3,23 @@
 
 (setq mc/cmds-to-run-for-all
       '(
+        ace-jump-mode
+        beginning-of-visual-line
+        delete-indentation
+        electric-newline-and-maybe-indent
+        emmet-expand-line
+        end-of-buffer
+        end-of-visual-line
+        kill-visual-line
+        line-above
         org-self-insert-command
         ))
 
 (setq mc/cmds-to-run-once
       '(
+        ace-jump-move
+        help-for-help
+        ido-find-file
         mac-mwheel-scroll
+        tags-loop-continue
         ))

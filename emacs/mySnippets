@@ -1,0 +1,17 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: react
+# key: rcc
+# binding: direct-keybinding
+# --
+
+var React = require('reacty');
+
+var $0 = React.createClass({
+     render: function() {
+     return (
+          <div />
+          );
+     }
+ });
+
+module.exports = $0;

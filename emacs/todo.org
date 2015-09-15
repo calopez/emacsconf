@@ -1,0 +1,37 @@
+- Productivit / pain list
+  - search front and backward at the same time
+  - alias that run meteor, split the tmux window an run tail
+  - Disable remchi mode when editing org-mode files
+  - join lines with C-k
+  - comments, like coment and uncomment a block of code
+  - org mode auto enable spell check
+  - select word
+  - learn magit
+  - set gropus of files in the bookmark, like a sort of workspace
+    - set group exammple:
+      - test calendar
+        - deactivate remchi mode
+        - feture
+        - steps
+        - js
+        - methods
+
+
+|-------------+---------------------|
+| short cut   | description         |
+|-------------+---------------------|
+| Aug 25 2016 |                     |
+|-------------+---------------------|
+| C-c p s g   | grep search         |
+| M-g g       | got to line         |
+|-------------+---------------------|
+| Aug 25 2016 |                     |
+|-------------+---------------------|
+| C-x (       | start Recording     |
+| C-c )       | stop recording      |
+| C-x e       | play macro          |
+| M+#         | repeat # times      |
+| C-u #       | repeat # times      |
+| C-x SPC     | rectangle selection |
+|             |                     |
+|-------------+---------------------|
